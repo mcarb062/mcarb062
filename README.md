@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mcarb062
-- 👀 I’m interested in Quantum Optics 
-- 🌱 I’m currently learning Python and Matlab to use for my PhD research in experimeltal Quantum Optics
-- 📫 How to reach me: celecarbonell11@gmail.com
+- 👋 Hi, I’m Celeste Carbonell
+- 👩‍🔬 I’m interested in #quantuminformation #quantumoptics #optics #coherentspectroscopy #photonics #quantumcomputers
+- 👩‍💻 I’m currently 
+- 📧 How to reach me: celecarbonell11@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mcelestecarbonell/
